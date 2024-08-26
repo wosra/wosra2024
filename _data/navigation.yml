@@ -1,0 +1,11 @@
+main:
+  - title: "Accepted Papers"
+    url: /papers/
+  - title: "Programme"
+    url: /programme/
+  - title: "Organisation"
+    url: /organisation/
+  - title: "Editions"
+    url: /previous/
+  - title: "Contact"
+    url: /contact/
